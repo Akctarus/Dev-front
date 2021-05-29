@@ -3,7 +3,7 @@ https://dashboard.chec.io/
 Nous l'avons relié à notre code avec la bibliothèque commerce.js
 
 commandes pré-requises:
-npm install
+npm install<br>
 npx browserslist@latest --update-db
 npm install caniuse-lite
 npm start
